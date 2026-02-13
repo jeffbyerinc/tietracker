@@ -1,0 +1,88 @@
+#na-menu-but { position:fixed; top: 25px; right: 25px; z-index: 1999;background-color: $brand1;box-sizing: border-box; @include transition(all, 200ms);
+	&:hover {
+		background-color: $brand2;
+	}
+	a#na-open {
+		color: $brand5;
+		i {
+			padding: 10px 15px;
+		}
+		&.active {
+			color: $brand4;
+		}
+	}
+}
+#menu-but-desc {
+	position: fixed;
+	top: 80px;
+	right: 25px;
+	color: #000000;
+	font-size: 11px;
+	width: 57px;
+	text-align: center;
+}
+.nav-collapse { 
+	position: absolute;
+	top: 0px;
+	z-index: 999;
+	width: 100vw;
+	background-color: rgba(255,255,255,0.9);
+	box-sizing: border-box;
+	height: 0px;
+	overflow: hidden;
+	@include transition(all, 400ms);
+	a {
+		display: block;
+		color: $brand4;
+		padding: 15px 20px;
+		text-align: center;
+		max-width: 400px;
+		margin: 0 auto;
+		background-color: $brand2;
+		border-bottom: 1px solid $brand3;
+		&:hover {
+			background-color: $brand1;
+			color: $brand5;
+		}
+	}
+	&.nav-open {
+		height: 100%;
+		padding: 100px;
+		@media (max-width: 767px) {
+			padding: 100px 0px 0px;
+			a {
+				font-size: 1em;
+				padding: 7px 0px;
+			}
+		}
+	}
+}
+#logo {
+	position: absolute;
+	z-index: 999;
+	top: 25px;
+	left: 25px;
+	width: 100px;
+	height: auto;
+	img {
+		width: 100%;
+		height: auto;
+	}
+}
+#nav-footer {
+	position:absolute;
+	bottom: 25px;
+	left: 25px;
+	a {
+		display: inline-block;
+		background-color: transparent;
+		padding: 0px 20px 0px 0px;
+		font-size: 90%;
+		color: $brand1;
+		text-decoration: none;
+		border: none;
+		&:hover {
+			color: $brand2;
+		}
+	}
+}

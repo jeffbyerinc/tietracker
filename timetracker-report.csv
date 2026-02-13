@@ -1,0 +1,48 @@
+id,name,client,task,start,finish,total,timefrac,Notes,startdate,finishdate
+12713,Mira,ami,ads,"2026-1-4 16:36:23","2026-1-4 16:46:49",0.17,,"turned campaigns back on",2026-01-04,2026-01-04
+12714,Kevin,ami,website,"2026-1-5 10:20:18","2026-1-5 10:38:09",0.28,,"removing holiday messaging links",2026-01-05,2026-01-05
+12717,Kevin,ami,website,"2026-1-6 12:49:23","2026-1-6 13:08:23",0.32,,"updated 221R price",2026-01-06,2026-01-06
+12721,Mira,ami,ads,"2026-1-6 16:39:12","2026-1-6 17:16:27",0.62,,"221r pricing",2026-01-06,2026-01-06
+12723,Katie,AMI,"image swaps","2026-1-7 09:49:21","2026-1-7 09:59:25",0.17,,,2026-01-07,2026-01-07
+12725,Mira,ami,"221r pricing","2026-1-7 11:36:58","2026-1-7 11:56:48",0.32,,"updating ads",2026-01-07,2026-01-07
+12729,Mira,ami,ads,"2026-1-7 15:21:39","2026-1-7 16:36:10",1.23,,"221r pricing",2026-01-07,2026-01-07
+12734,Mira,ami,"ads analysis","2026-1-8 15:39:01","2026-1-8 16:23:46",0.73,,,2026-01-08,2026-01-08
+12737,Katie,ami,images,"2026-1-9 10:30:29","2026-1-9 10:40:58",0.17,,,2026-01-09,2026-01-09
+12741,Kevin,ami,website,"2026-1-12 10:05:46","2026-1-12 10:42:49",0.62,,"adding new operator manuals",2026-01-12,2026-01-12
+12745,Mira,ami,"page updates","2026-1-12 14:18:05","2026-1-12 14:35:34",0.28,,,2026-01-12,2026-01-12
+12746,Katie,ami,"biogas page update","2026-1-12 14:30:10","2026-1-12 14:41:43",0.18,,,2026-01-12,2026-01-12
+12747,Kevin,ami,website,"2026-1-12 13:00:09","2026-1-12 14:19:58",1.32,,"updating wording and investigating bug reports",2026-01-12,2026-01-12
+12748,Mira,ami,"ads review","2026-1-12 15:30:40","2026-1-12 16:40:35",1.15,,,2026-01-12,2026-01-12
+12752,Mira,ami,"2025 ad recap","2026-1-13 10:34:13","2026-1-13 12:11:30",1.62,,,2026-01-13,2026-01-13
+12753,Kevin,ami,website,"2026-1-12 15:05:51","2026-1-12 16:03:12",0.95,,"more text substitution, bug report issue found",2026-01-12,2026-01-12
+12757,Mira,ami,"2025 ads","2026-1-13 13:00:10","2026-1-13 13:43:25",0.72,,,2026-01-13,2026-01-13
+12758,Mira,ami,ads,"2026-1-13 20:12:29","2026-1-13 22:26:22",2.22,,"2025 ads analysis, agenda, ads report",2026-01-13,2026-01-13
+12761,Katie,ami,"biogas page","2026-1-14 10:20:55","2026-1-14 10:33:22",0.2,,,2026-01-14,2026-01-14
+12762,Mira,ami,"ads report","2026-1-14 10:17:58","2026-1-14 10:43:41",0.42,,,2026-01-14,2026-01-14
+12765,Mira,ami,meeting,"2026-1-14 11:34:00","2026-1-14 12:33:37",0.98,,,2026-01-14,2026-01-14
+12766,Jeff,ami,dev,"2026-1-12 06:34:41","2026-1-14 10:02:44",3.47,,"fix dashboard, update AU spreadsaheet, meeting",2026-01-12,2026-01-14
+12769,Kevin,ami,website,"2026-1-14 13:44:06","2026-1-14 14:01:51",0.28,,"updating dropdown misplacement",2026-01-14,2026-01-14
+12774,Mira,ami,221r,"2026-1-15 12:28:18","2026-1-15 13:47:41",1.32,,"ways to improve 221r, industry applications",2026-01-15,2026-01-15
+12777,Jeff,ami,dev,"2026-1-16 09:51:44","2026-1-16 10:38:03",0.77,,"industry cta click stats",2026-01-16,2026-01-16
+12780,Katie,AMI,"biogas page updates","2026-1-19 09:22:19","2026-1-19 09:38:30",0.27,,,2026-01-19,2026-01-19
+12786,Katie,AMI,"biogas page updates","2026-1-20 09:39:04","2026-1-20 09:46:23",0.12,,,2026-01-20,2026-01-20
+12789,Kevin,ami,website,"2026-1-20 13:00:59","2026-1-20 16:57:52",3.93,,"updating data sheets; markup for new biogas page",2026-01-20,2026-01-20
+12790,Mira,ami,ads,"2026-1-20 15:37:22","2026-1-20 16:58:08",1.33,,"ads tasks for annual updates",2026-01-20,2026-01-20
+12795,Mira,ami,"ads updates","2026-1-21 15:12:05","2026-1-21 16:19:48",1.12,,,2026-01-21,2026-01-21
+12796,Kevin,ami,website,"2026-1-21 11:37:02","2026-1-21 17:18:24",5.68,,"finishing adding html, adding images, css layout pushing",2026-01-21,2026-01-21
+12797,Kevin,ami,website,"2026-1-22 09:50:12","2026-1-22 11:18:36",1.47,,"finishing new biogas page first pass; bug fixing for other sentry issues",2026-01-22,2026-01-22
+12801,Mira,ami,content,"2026-1-23 11:19:38","2026-1-23 12:05:07",0.75,,,2026-01-23,2026-01-23
+12802,Kevin,ami,website,"2026-1-23 12:48:11","2026-1-23 13:10:50",0.37,,"quick spacing updates",2026-01-23,2026-01-23
+12803,Kevin,ami,website,"2026-1-23 13:11:04","2026-1-23 13:23:29",0.2,,"removing other instances of Costa Mesa",2026-01-23,2026-01-23
+12811,Katie,AMI,"card update","2026-1-26 14:19:45","2026-1-26 14:54:12",0.57,,,2026-01-26,2026-01-26
+12812,Mira,ami,content,"2026-1-26 13:07:29","2026-1-26 13:45:44",0.63,,"biogas + careers page",2026-01-26,2026-01-26
+12813,Kevin,ami,website,"2026-1-26 14:39:07","2026-1-26 15:35:19",0.93,,"adding updates to new biogas page, (adding links, changing copy) and updating latest round of documents",2026-01-26,2026-01-26
+12814,Mira,ami,ads,"2026-1-26 15:02:18","2026-1-26 17:06:38",2.07,,"ad tasks based on audit",2026-01-26,2026-01-26
+12815,Kevin,ami,website,"2026-1-27 09:10:39","2026-1-27 09:19:13",0.13,,"adding model 111 datasheet",2026-01-27,2026-01-27
+12816,Kevin,ami,website,"2026-1-27 14:03:04","2026-1-27 14:25:20",0.37,,"adding links to photos",2026-01-27,2026-01-27
+12819,Mira,ami,ads,"2026-1-27 15:23:52","2026-1-27 16:18:42",0.9,,,2026-01-27,2026-01-27
+12820,Mira,ami,meeting,"2026-1-28 10:21:21","2026-1-28 12:43:39",2.37,,"ads report, agenda, meeting prep, meeting",2026-01-28,2026-01-28
+12821,Kevin,ami,website,"2026-1-28 12:24:01","2026-1-28 13:21:01",0.95,,"updating sensor page pdfs, launching new biogas industry page, prototyping careers page",2026-01-28,2026-01-28
+12822,Jeff,ami,seo,"2026-1-28 08:03:08","2026-1-28 10:42:52",2.65,,"pipedrive diagram review, dahboard review, meeting",2026-01-28,2026-01-28
+12831,Mira,ami,221r,"2026-1-29 16:01:39","2026-1-29 16:42:51",0.68,,prep,2026-01-29,2026-01-29
+12834,Mira,ami,ads,"2026-1-30 11:47:39","2026-1-30 12:26:45",0.65,,"research lead, more ad updates, meeting notes.",2026-01-30,2026-01-30

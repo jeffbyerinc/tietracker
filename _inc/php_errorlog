@@ -1,0 +1,4 @@
+[09-Apr-2019 15:56:44 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/byer9745/public_html/apps/timetracker/_inc/addTimeDB.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/byer9745/public_html/apps/timetracker/_inc/addTimeDB.php on line 24
